@@ -6,7 +6,7 @@
 - 📫 How to reach me: [digital_slave@126.com](digital_slave@126.com)
 - ⚡ Fun fact: mobile games, animations, movies and reading.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnTian&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Digital2Slave&layout=compact&theme=default)
 
 
 <!--
