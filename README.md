@@ -1,7 +1,7 @@
 ![github](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fn.sinaimg.cn%2Ftranslate%2F20170909%2FzhNp-fykusey6446971.jpg&refer=http%3A%2F%2Fn.sinaimg.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1661653648&t=961693ac3cae4f894a41ac4a637beec8)
 
 
-- 😄 My name is digital2slave.
+- 😄 My name is Digital2Slave.
 - 🌱 I’m currently learning how to enjoy life and work.
 - 📫 How to reach me: [digital_slave@126.com](digital_slave@126.com)
 - ⚡ Fun fact: mobile games, animations, movies and reading.
