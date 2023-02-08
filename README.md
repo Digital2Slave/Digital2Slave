@@ -22,16 +22,17 @@ This is Digital2Slave, programmer based in Guangdong, China.
     <img src="https://img.shields.io/badge/126-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="25px" alt="Email" /></a>
 <a href="https://www.zhihu.com/people/Digital2Slave">
     <img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" height="25px" alt="知乎" /></a>
-<a href="https://space.bilibili.com/38040688">
-    <img src="https://img.shields.io/badge/bilibili-0079FF.svg?style=plastic&logo=bilibili&logoColor=white" height="25px" alt="bilibili" /></a>
+<!-- <a href="https://space.bilibili.com/38040688">
+    <img src="https://img.shields.io/badge/bilibili-0079FF.svg?style=plastic&logo=bilibili&logoColor=white" height="25px" alt="bilibili" /></a> -->
+    <img src="https://profile-counter.glitch.me/Digital2Slave/count.svg" />
 </p> 
 
 <img style="width: 50%" align="medium" src="https://github-readme-stats.vercel.app/api?username=Digital2Slave&show_icons=true&hide_border=true&count_private=true" />
 
-<p align="left"> 
+<!-- <p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Digital2Slave/count.svg" />
-</p>
+</p> -->
 
 
 ### Code languages
