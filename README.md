@@ -18,10 +18,10 @@ This is Digital2Slave, programmer based in Guangdong, China.
     <img src="https://komarev.com/ghpvc/?username=Digital2Slave&color=blue" height="25px" alt="github follow" /> </a>
 <a href="https://github.com/Digital2Slave?tab=followers"> 
     <img src="https://img.shields.io/github/followers/Digital2Slave?label=Followers&style=plastic" height="25px" alt="github follow" /> </a>
-<a href="digital_slave@126.com"> 
-    <img src="https://img.shields.io/badge/126-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="25px" alt="Email" /></a>
-<a href="https://www.zhihu.com/people/Digital2Slave">
-    <img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" height="25px" alt="知乎" /></a>
+<!-- <a href="digital_slave@126.com"> 
+    <img src="https://img.shields.io/badge/126-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="25px" alt="Email" /></a> -->
+<!-- <a href="https://www.zhihu.com/people/Digital2Slave">
+    <img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" height="25px" alt="知乎" /></a> -->
 <!-- <a href="https://space.bilibili.com/38040688">
     <img src="https://img.shields.io/badge/bilibili-0079FF.svg?style=plastic&logo=bilibili&logoColor=white" height="25px" alt="bilibili" /></a> -->
     <img src="https://profile-counter.glitch.me/Digital2Slave/count.svg" />
