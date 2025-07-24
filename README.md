@@ -11,7 +11,7 @@ This is Digital2Slave, programmer based in Guangdong, China.
 
 <p align="left">
 <a href="https://github.com/Digital2Slave">
-	<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=100&lines=AI+Engineer;DeepLearning+Model+Training+%7C+Deploying;Major+in+Computer+Vision" alt="Typing SVG" />
+	<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=100&lines=AI+Engineer;Major+in+Computer+Vision;DeepLearning+Model+Training+%7C+Deploying" alt="Typing SVG" />
 </a><p>
 
 <a href="https://github.com/Digital2Slave"><img src="https://komarev.com/ghpvc/?username=Digital2Slave&label=PROFILE+VIEWS&abbreviated=true&color=brightgreen&style=plastic" height="25px" alt="github follow" /></a>
