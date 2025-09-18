@@ -1,5 +1,30 @@
+<p align="left">
+<a href="https://github.com/Digital2Slave">
+	<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=100&lines=AI+Engineer;Major+in+Computer+Vision;DeepLearning+Model+Training+%7C+Deploying" alt="Typing SVG" />
+</a>
+</p>
+
+<p align="left">
+<a href="https://github.com/Digital2Slave"><img src="https://komarev.com/ghpvc/?username=Digital2Slave&label=PROFILE+VIEWS&abbreviated=true&color=brightgreen&style=plastic" height="25px" alt="github follow" /></a>
+<a href="https://github.com/Digital2Slave?tab=followers"><img src="https://img.shields.io/github/followers/Digital2Slave?label=Followers&style=plastic" height="25px" alt="github follow" /></a>
+<a href="mailto:digital_slave@126.com"><img src="https://img.shields.io/badge/126-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="25px" alt="Email" /></a>
+<a href="https://www.zhihu.com/people/Digital2Slave"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" height="25px" alt="知乎" /></a>
+<a href="https://space.bilibili.com/38040688"><img src="https://img.shields.io/badge/bilibili-0079FF.svg?style=plastic&logo=bilibili&logoColor=white" height="25px" alt="bilibili" /></a>
+</p>
+
+<table border="0">
+  <td width="50%" valign="top">
+    <img src="https://github-readme-stats.vercel.app/api?username=Digital2Slave&show_icons=true&hide_border=true&count_private=true" />
+  </td>
+  <td width="50%" valign="top" align="center"">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digital2Slave&layout=donut&theme=default&hide_title=true" />
+  </td>
+</table>
+
+<!--
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 <p align="left">
@@ -28,6 +53,7 @@
 
 </tr>
 </table>
+-->
 
 
 
